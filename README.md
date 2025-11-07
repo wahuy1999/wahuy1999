@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Wahyu Kurniawan 👋
+
+Full-stack Web Developer with strong experience in **CodeIgniter (CI3/CI4), PHP, MySQL, Linux Server, Redis, and Web Infrastructure**.  
+Fokus pada pengembangan aplikasi kepegawaian, sistem informasi, dan optimasi performa server.
+
+<!-- Badges Optional
+![Profile Views](https://komarev.com/ghpvc/?username=wahuy1999)
+-->
+
+---
+
+## ⚡ About Me
+- 🇮🇩 Based in Indonesia
+- 👨‍💻 Web Developer (Backend-heavy)
+- 🔐 Experience with government applications (BKPSDM)
+- 🖥️ Comfortable with Linux + WHM + CPanel
+- 🎯 Interested in performance tuning + system optimizations
+- 🏃‍♂️ Hobby: Running
+
+---
+
+## 📊 GitHub Stats
+> (optional — boleh ditambah nanti)
 
 <!--
-**wahuy1999/wahuy1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahuy1999&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahuy1999&layout=compact&theme=tokyonight)
 -->
+
+---
+
+## ✅ Motto
+> *“Build, simple, scalable systems.”*
